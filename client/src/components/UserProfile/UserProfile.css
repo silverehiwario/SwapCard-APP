@@ -1,0 +1,37 @@
+
+
+button{
+	font-family: 'Basic', sans-serif !important;
+	background-color:#C4201F !important;
+	border-color:#C4201F !important;
+	
+}
+
+.btn-lg{
+	color: white;
+}
+
+p{
+	font-family: 'Carter One', cursive!important;
+	font-size: 20px!important;
+	color: #939393!important;
+	
+}
+
+#dashFont{
+	color: white!important;
+	padding-top:10px;
+	font-size: 30px!important;
+	text-shadow: black 0.1em 0.1em 0.1em !important;
+}
+
+#titleNames{
+	font-family: 'Carter One', cursive!important;
+	font-size: 30px!important;
+	color: #2a2a2a!important;
+	text-shadow:none;
+}
+
+.modal{
+    color: #bdbdbd!important;
+}
